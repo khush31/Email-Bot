@@ -8,4 +8,5 @@ Libraries are:
 3. [pyttsx3](https://pypi.org/project/pyttsx3/)
 
 You need to install all these packages.
-*Note for this project you need to turn ON Gmail-> Security-> Less Secure apps the gmail and I couldn't recommend.
+
+**Note for this project you need to turn ON Gmail-> Security-> Less Secure apps the gmail and I couldn't recommend.**
