@@ -6,5 +6,6 @@ Libraries are:
 1. [SMTP](https://docs.python.org/3/library/smtplib.html#module-smtplib)
 2. [Speech Recognition](https://pypi.org/project/SpeechRecognition/)
 3. [pyttsx3](https://pypi.org/project/pyttsx3/)
+
 You need to install all these packages.
 *Note for this project you need to turn ON Gmail-> Security-> Less Secure apps the gmail and I couldn't recommend.
